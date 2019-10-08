@@ -1,0 +1,15 @@
+{
+  "name": "ilovemycity-ejs-refactored",
+  "version": "1.0.0",
+  "description": "Refactored I Love My City Application using EJS ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edureka",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3"
+  }
+}
